@@ -2,6 +2,9 @@
 
 The Clothing Bag is a custom FiveM resource designed for servers using the QBCore framework. It allows players to access a portable clothing menu through an in-game item, enabling on-the-go outfit changes.
 
+Team Discord 
+https://discord.gg/SBFqayCwbM
+
 ## Features
 
 - **Portable Clothing Access**: Players can change their outfits anywhere by using the clothing bag item.
